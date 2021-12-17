@@ -1,3 +1,4 @@
+
 ## Ruby on Rails 6 Api Mode, Action Cable (websocket) e integração com ReactJS
 
 Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando implementar ***websocket*** na sua aplicação ***Rails*** utilizando a ***gem Action Cable***. Para facilitar a sua caminhada *(e a minha)* resolvi criar este repositório contendo uma aplicação básica na qual utilizo o ***Ruby on Rails na versão 6*** e o ***ReactJS 17*** para criar um sistema simples de alertas (leia notificações). O sistema desenvolvido emite dados via **ActionCable** (***websocket***) para os clientes assinantes do canal especificado. Espero que isso lhe permita compreender a utilização básica da funcionalidade integrada ao ***ReactJS***, podendo o conhecimento ser aplicado a qualquer ***framework front-end*** atual ***(Vue, Angular, React, Svelte e etc.)*** ou ***JS Vanilla***. Vamos ao *fork*!
@@ -56,7 +57,9 @@ Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando imp
 	3. rails db:migrate
 	4. rails s -p 3000
  - Aplicação ReactJS
-	5. Entre no diretório do projeto e execute os seguintes comandos:
-	6. yarn install
-	7. yarn dev
+	1. Entre no diretório do projeto e execute os seguintes comandos:
+	2. yarn install
+	3. yarn dev
+
+![você conseguiu!!](https://media3.giphy.com/media/3o6gaUIP3L0eLVJNPq/giphy.gif?cid=ecf05e4713wxoukx8g0zkm0wfg9o4nmtapjyjdtocotdbsxe&rid=giphy.gif&ct=g)
 	
