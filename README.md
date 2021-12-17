@@ -47,7 +47,7 @@ Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando imp
 	-	![arquivo app.jsx](https://raw.githubusercontent.com/rafikmoreira/rails-websocket-reactjs/main/img/app-jsx.png)
 - Execução
 	- suba a sua aplicação do front e do back :)
-	- abra a sua ferramenta preferida para APIs REST e execute uma requisição do tipo post para 	http://localhost:3000/alertas (lembre-se de verificar a porta do servidor rails e substituir aqui caso seja necessário) contendo um JSON com titulo e tipo. Abra a sua aplicação ReactJS, cadastre um alerta no back e veja a mágica no console.
+	- abra a sua ferramenta preferida para testar APIs REST e execute uma requisição do tipo POST para http://localhost:3000/alertas (lembre-se de verificar a porta do servidor rails e substituir aqui caso seja necessário) contendo um JSON com titulo e tipo. Abra a sua aplicação ReactJS, cadastre um alerta no back e veja a mágica no console.
 		
 ### Execução (Repositório)
 
