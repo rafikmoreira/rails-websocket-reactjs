@@ -53,9 +53,10 @@ Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando imp
  - Aplicação Ruby on Rails
 	1. Entre no diretório do projeto e execute os seguintes comandos:
 	2. bundle install
-	3. rails s -p 3000
+	3. rails db:migrate
+	4. rails s -p 3000
  - Aplicação ReactJS
-	1. Entre no diretório do projeto e execute os seguintes comandos:
-	2. yarn install
-	3. yarn dev
+	5. Entre no diretório do projeto e execute os seguintes comandos:
+	6. yarn install
+	7. yarn dev
 	
