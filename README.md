@@ -29,7 +29,7 @@ Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando imp
 	 - rails g model alerta titulo:string tipo:string
 	 - rails db:migrate
 - Hora de configurar nosso arquivo de rotas em *config/routes.rb*
-![Rotas configuradas](https://raw.githubusercontent.com/rafikmoreira/rails-websocket-reactjs/main/img/routes.png)
+	->>>>![Rotas configuradas](https://raw.githubusercontent.com/rafikmoreira/rails-websocket-reactjs/main/img/routes.png)
 - Gerar o nosso canal para alertas
 	- *rails g channel alertas*
 	- acesse o arquivo em *app/channels/alertas_channel.rb*
