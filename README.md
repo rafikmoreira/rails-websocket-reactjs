@@ -25,7 +25,7 @@ Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando imp
  - Adicione a gem 'rack-cors' *(bundle add rack-cors)*
 	 - Agora remova o comentário e atualize o arquivo localizado em  *config/initializers/cors.rb*
 	 ![código cors](https://raw.githubusercontent.com/rafikmoreira/rails-websocket-reactjs/f2dee3e2158a6cb965949718bb9e3947e4ae4db9/img/rack-cors.png)
- - Gere o model para as alertas
+ - Gere o model para os alertas
 	 - rails g model alerta titulo:string tipo:string
 	 - rails db:migrate
 - Hora de configurar nosso arquivo de rotas em *config/routes.rb*
