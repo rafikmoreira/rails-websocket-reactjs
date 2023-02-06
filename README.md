@@ -5,8 +5,6 @@ Fala, ***'men'!*** Se você chegou até aqui, provavelmente está planejando imp
 
 ![Tenha sangue nos olhos! here](https://media0.giphy.com/media/xThuW1N2Qe6OLKpfgI/giphy.gif?cid=ecf05e472m43wlk3lo8y58lpy7sba6z3i62byyvdc24dc259&rid=giphy.gif&ct=g)
 
-**Pull request utilizando docker? Aceitamos!!**
-
 ### Tenha em sua mochila
 
  - Pacotes
